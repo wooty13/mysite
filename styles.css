@@ -1,7 +1,8 @@
 p.MyClass{
-  color: red
-}
-p.OtherClass{
-  background-color: black;
+  background-color: red;
   color: blue
+}
+body.MyOtherClass{
+  background-color: blue;
+  color: white
 }
