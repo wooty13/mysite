@@ -1,3 +1,7 @@
 p.MyClass{
   color: red
 }
+p.OtherClass{
+  background-color: black;
+  color: blue
+}
