@@ -1,6 +1,5 @@
 p.MyClass{
-  background-color: red;
-  color: blue
+  font-size: 15px
 }
 body.MyOtherClass{
   background-color: blue;
