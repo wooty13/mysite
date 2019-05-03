@@ -1,5 +1,6 @@
-p.MyClass{
+body.MyClass{
   font-size: 100px
+  background-image: 'http://evergrowinggalaxy.weebly.com/uploads/4/1/7/1/41717539/6904507.jpg?250';
 }
 body.MyOtherClass{
   background-color: blue;
